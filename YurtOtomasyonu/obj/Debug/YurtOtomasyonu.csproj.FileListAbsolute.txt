@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.exe.config
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.Login.resources
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.Properties.Resources.resources
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.exe
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.pdb
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.exe
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.pdb
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.Anasayfa.resources
+C:\Users\Asus\documents\visual studio 2012\Projects\YurtOtomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.OgrenciEkle.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Yurt_Otomasyonu\YurtOtomasyonu\bin\Debug\YurtOtomasyonu.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Yurt_Otomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Yurt_Otomasyonu\YurtOtomasyonu\obj\Debug\YurtOtomasyonu.pdb
